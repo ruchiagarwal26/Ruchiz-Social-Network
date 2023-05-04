@@ -11,10 +11,12 @@ https://drive.google.com/file/d/18gmR-bxYRyuL51ETIGo7ovljZUGYboUo/view
 
 
 Complete Recording:
+
 https://user-images.githubusercontent.com/115508901/236093460-5707e32a-e4a7-43b7-92d1-62d84ee3c36b.mp4
 
 
 User and Thought selection based on ID:
+
 https://user-images.githubusercontent.com/115508901/236096160-fcfdc2e0-6f7d-4c10-9417-d70bc13d08c9.mp4
 
 
