@@ -78,10 +78,10 @@ const usersAll = {
                 }
                 //**BONUS**: Remove a user's associated thoughts when deleted.
 
-                return Thought.deleteMany({ _id: { $in: dbUserData.thouhhts }});
+                return Thought.deleteMany({ _id: { $in: dbUserData.thoughts }});
             })
             .then(() => {
-                res.json({ message: " thoughts are deleted "});
+                res.json({ message: " User and thoughts are deleted "});
             })
             .catch((err) => res.json(err));
     },
